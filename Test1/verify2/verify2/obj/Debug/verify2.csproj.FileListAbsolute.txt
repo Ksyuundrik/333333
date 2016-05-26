@@ -1,0 +1,18 @@
+D:\Learning\Verify\verify2\verify2\bin\Debug\verify2.exe.config
+D:\Learning\Verify\verify2\verify2\obj\Debug\verify2.csprojResolveAssemblyReference.cache
+D:\Learning\Verify\verify2\verify2\bin\Debug\verify2.exe
+D:\Learning\Verify\verify2\verify2\bin\Debug\verify2.pdb
+D:\Learning\Verify\verify2\verify2\obj\Debug\verify2.exe
+D:\Learning\Verify\verify2\verify2\obj\Debug\verify2.pdb
+C:\Users\ksh\Downloads\Verify2\verify2\verify2\bin\Debug\verify2.exe.config
+C:\Users\ksh\Downloads\Verify2\verify2\verify2\obj\Debug\verify2.exe
+C:\Users\ksh\Downloads\Verify2\verify2\verify2\obj\Debug\verify2.pdb
+C:\Users\ksh\Downloads\Verify2\verify2\verify2\bin\Debug\verify2.exe
+C:\Users\ksh\Downloads\Verify2\verify2\verify2\bin\Debug\verify2.pdb
+C:\Users\ksh\Downloads\Verify2\verify2\verify2\obj\Debug\verify2.csprojResolveAssemblyReference.cache
+C:\Users\ksh\Desktop\3 лр\Test1\verify2\verify2\bin\Debug\verify2.exe.config
+C:\Users\ksh\Desktop\3 лр\Test1\verify2\verify2\obj\Debug\verify2.exe
+C:\Users\ksh\Desktop\3 лр\Test1\verify2\verify2\obj\Debug\verify2.pdb
+C:\Users\ksh\Desktop\3 лр — копия\Test1\verify2\verify2\bin\Debug\verify2.exe.config
+C:\Users\ksh\Desktop\3 лр — копия\Test1\verify2\verify2\obj\Debug\verify2.exe
+C:\Users\ksh\Desktop\3 лр — копия\Test1\verify2\verify2\obj\Debug\verify2.pdb

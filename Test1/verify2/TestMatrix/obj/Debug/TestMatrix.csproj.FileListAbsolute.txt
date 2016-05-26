@@ -1,0 +1,14 @@
+D:\Learning\Verify\verify2\TestMatrix\obj\Debug\TestMatrix.csprojResolveAssemblyReference.cache
+D:\Learning\Verify\verify2\TestMatrix\bin\Debug\TestMatrix.dll
+D:\Learning\Verify\verify2\TestMatrix\bin\Debug\TestMatrix.pdb
+D:\Learning\Verify\verify2\TestMatrix\bin\Debug\verify2.exe
+D:\Learning\Verify\verify2\TestMatrix\bin\Debug\verify2.pdb
+D:\Learning\Verify\verify2\TestMatrix\obj\Debug\TestMatrix.dll
+D:\Learning\Verify\verify2\TestMatrix\obj\Debug\TestMatrix.pdb
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\bin\Debug\TestMatrix.dll
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\bin\Debug\TestMatrix.pdb
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\bin\Debug\verify2.exe
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\bin\Debug\verify2.pdb
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\obj\Debug\TestMatrix.csprojResolveAssemblyReference.cache
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\obj\Debug\TestMatrix.dll
+C:\Users\ksh\Downloads\Verify2\verify2\TestMatrix\obj\Debug\TestMatrix.pdb
